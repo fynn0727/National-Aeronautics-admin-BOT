@@ -1,0 +1,342 @@
+30. Entire Agreement
+
+This Terms of Service (“Agreement”) constitutes the complete and exclusive agreement between you (“User”) and the Developer regarding your access to and use of the Bot, including all related services, websites, dashboards, APIs, documentation, support resources, premium features, and any future functionality provided by the Developer.
+
+This Agreement supersedes and replaces all prior or contemporaneous agreements, understandings, representations, communications, negotiations, discussions, or arrangements—whether written, oral, electronic, or implied—that relate to the use of the Bot.
+
+No statement, promise, advertisement, social media post, community discussion, Discord message, email, support ticket response, or verbal communication made by the Developer, moderators, staff members, or community volunteers shall modify, expand, or replace these Terms unless such modification is expressly published as an official amendment to these Terms by the Developer.
+
+If any additional policies are published by the Developer, including but not limited to a Privacy Policy, Community Guidelines, Premium Terms, Acceptable Use Policy, Developer Documentation, API Documentation, or any feature-specific terms, those documents are incorporated into this Agreement by reference and form part of these Terms where applicable.
+
+In the event of any conflict between these Terms and any supplementary policy, these Terms shall prevail unless the supplementary policy expressly states otherwise for the specific subject matter it governs.
+
+Your use of the Bot after any updates to this Agreement or any incorporated policies constitutes your acceptance of those updated terms, unless applicable law requires your explicit consent.
+
+If any provision of this Agreement is determined by a court or other competent legal authority to be unlawful, invalid, or unenforceable, the remaining provisions shall remain in full force and effect to the maximum extent permitted by applicable law.
+
+Failure by the Developer to enforce any provision of this Agreement at any particular time shall not be interpreted as a waiver of the Developer’s right to enforce that provision or any other provision in the future. Any waiver of rights must be made explicitly in writing by the Developer and shall apply only to the specific circumstance for which it was granted.
+
+Nothing contained in this Agreement shall be interpreted as creating a partnership, joint venture, employment relationship, agency relationship, or other fiduciary relationship between the User and the Developer. Your use of the Bot is solely under the terms and conditions described in this Agreement.
+
+By inviting, installing, configuring, interacting with, or otherwise using the Bot, you acknowledge that you have read, understood, and agreed to be legally bound by this Agreement and all incorporated policies. If you do not agree to any part of this Agreement, you must immediately discontinue use of the Bot and remove it from any Discord servers under your control
+
+
+.Terms of Service
+
+Effective Date: June 28, 2026
+
+These Terms of Service (“Terms”) govern your use of this Discord bot (the “Bot”), including any commands, features, websites, dashboards, APIs, and related services provided by the Bot.
+
+By inviting, using, or interacting with the Bot, you agree to these Terms. If you do not agree, you must remove the Bot from your Discord server and discontinue its use.
+
+⸻
+
+1. Definitions
+
+* Bot refers to the Discord application and all related services.
+* Service refers to the Bot, website, dashboard, APIs, databases, and any associated features.
+* User refers to anyone who interacts with the Bot.
+* Server Owner refers to the owner of a Discord server where the Bot is installed.
+* Administrator refers to users with permission to manage the Bot within a server.
+* Developer refers to the owner and maintainer of the Bot.
+
+⸻
+
+2. Eligibility
+
+You must:
+
+* Comply with Discord’s Terms of Service.
+* Comply with Discord’s Community Guidelines.
+* Have permission to add the Bot to any server.
+* Follow all applicable local laws.
+
+If you do not meet these requirements, you may not use the Bot.
+
+⸻
+
+3. Acceptance of Terms
+
+Using the Bot constitutes acceptance of these Terms and any future updates.
+
+Continued use after changes are published means you accept the updated Terms.
+
+⸻
+
+4. License
+
+The Developer grants you a limited, non-exclusive, non-transferable, revocable license to use the Bot.
+
+This license may be revoked at any time.
+
+You may not claim ownership of the Bot or any of its components.
+
+⸻
+
+5. Acceptable Use
+
+You agree not to:
+
+* Use the Bot for illegal purposes.
+* Abuse commands.
+* Attempt to overload or crash the Bot.
+* Reverse engineer the Bot.
+* Modify or copy the Bot without permission.
+* Exploit bugs or vulnerabilities.
+* Circumvent rate limits.
+* Use automated systems to spam commands.
+* Use the Bot to harass or harm others.
+* Use the Bot to violate Discord’s policies.
+
+⸻
+
+6. Server Permissions
+
+The Bot may request permissions necessary for its features.
+
+These permissions may include:
+
+* Reading messages
+* Sending messages
+* Managing messages
+* Managing roles
+* Managing channels
+* Viewing channels
+* Connecting to voice channels
+* Speaking in voice channels
+* Embedding links
+* Attaching files
+* Using slash commands
+* Reading message history
+
+Server administrators are responsible for granting only the permissions they are comfortable with.
+
+⸻
+
+7. User Content
+
+Users retain ownership of content they submit.
+
+By using the Bot, you grant the Developer permission to temporarily process that content as necessary to provide Bot functionality.
+
+The Developer does not claim ownership of your messages.
+
+⸻
+
+8. Data Collection
+
+Depending on the Bot’s features, the Bot may collect:
+
+* Discord User IDs
+* Server IDs
+* Channel IDs
+* Role IDs
+* Message IDs
+* Command usage
+* Moderation logs
+* Configuration settings
+* Ticket information
+* Temporary cache data
+* Error logs
+* Usage statistics
+
+The Bot does not intentionally collect unnecessary personal information.
+
+⸻
+
+9. Data Storage
+
+Data may be stored for:
+
+* Server configuration
+* Moderation features
+* Tickets
+* Economy systems
+* Leveling systems
+* Logging
+* Analytics
+* Bug fixing
+
+Data may be deleted when it is no longer needed.
+
+⸻
+
+10. Privacy
+
+The Developer will make reasonable efforts to protect stored information.
+
+However, no online service can guarantee absolute security.
+
+Use of the Bot is at your own risk.
+
+⸻
+
+11. Availability
+
+The Bot is provided on an “as-is” and “as-available” basis.
+
+The Developer does not guarantee:
+
+* Continuous uptime
+* Error-free operation
+* Permanent availability
+* Compatibility with all Discord updates
+
+The Bot may experience maintenance, outages, or unexpected interruptions.
+
+⸻
+
+12. Updates
+
+The Developer may:
+
+* Add features
+* Remove features
+* Modify commands
+* Reset data
+* Change permissions
+* Improve performance
+* Fix bugs
+
+These changes may occur without prior notice.
+
+⸻
+
+13. Premium Features
+
+If premium features are offered:
+
+* Purchases are subject to any additional terms provided at checkout.
+* Premium benefits may change over time.
+* Abuse of premium features may result in suspension.
+* Refunds are handled according to applicable law and any stated refund policy.
+
+⸻
+
+14. Intellectual Property
+
+The Bot, including its:
+
+* Source code
+* Branding
+* Logos
+* Commands
+* Documentation
+* Graphics
+* APIs
+
+remain the intellectual property of the Developer unless otherwise stated.
+
+You may not copy, redistribute, sell, or reproduce any part of the Bot without written permission.
+
+⸻
+
+15. Third-Party Services
+
+The Bot may rely on third-party services, including:
+
+* Discord
+* Hosting providers
+* Databases
+* APIs
+
+The Developer is not responsible for outages or failures caused by these services.
+
+⸻
+
+16. Prohibited Activities
+
+You may not:
+
+* Attempt unauthorized access.
+* Use exploits.
+* Bypass restrictions.
+* Spam commands.
+* Interfere with the Bot’s infrastructure.
+* Attempt to steal data.
+* Impersonate the Developer.
+* Resell access without permission.
+
+Violations may result in permanent blacklisting.
+
+⸻
+
+17. Blacklisting
+
+The Developer reserves the right to blacklist:
+
+* Individual users
+* Servers
+* Organizations
+
+for any reason, including abuse, spam, malicious activity, or repeated violations of these Terms.
+
+Blacklisting may occur without prior notice.
+
+⸻
+
+18. Suspension and Termination
+
+The Developer may suspend or terminate access if you:
+
+* Violate these Terms.
+* Abuse the Bot.
+* Threaten the infrastructure.
+* Violate Discord’s policies.
+* Engage in illegal activities involving the Bot.
+
+Termination may be temporary or permanent.
+
+⸻
+
+19. Limitation of Liability
+
+To the maximum extent permitted by law, the Developer shall not be liable for any indirect, incidental, consequential, special, or punitive damages arising from your use of the Bot, including but not limited to data loss, service interruptions, server disruptions, or loss of profits.
+
+⸻
+
+20. Disclaimer
+
+The Bot is provided without warranties of any kind, whether express or implied.
+
+The Developer does not guarantee that:
+
+* Every feature will always work.
+* Bugs will be fixed immediately.
+* The Bot will meet every user’s expectations.
+
+⸻
+
+21. Indemnification
+
+You agree to indemnify and hold harmless the Developer from any claims, damages, liabilities, or expenses arising from your misuse of the Bot or your violation of these Terms.
+
+⸻
+
+22. Changes to These Terms
+
+The Developer may modify these Terms at any time.
+
+Significant changes may be announced through official support channels where practical.
+
+Your continued use of the Bot after changes become effective constitutes acceptance of the revised Terms.
+
+⸻
+
+23. Governing Law
+
+These Terms shall be governed by the laws applicable in the jurisdiction where the Developer resides, unless otherwise required by applicable law.
+
+⸻
+
+24. Contact
+
+Questions, bug reports, or legal inquiries may be directed through the Bot’s official support server or other official contact methods provided by the Developer.
+
+⸻
+
+25. Entire Agreement
+
+These Terms constitute the entire agreement between you and the Developer regarding the use of the Bot and supersede any prior agreements or understandings relating to the Service.
+
+By inviting, installing, or using the Bot, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
